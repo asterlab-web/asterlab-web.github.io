@@ -1,0 +1,12 @@
+---
+title: "WASTER"
+collection: tools
+category: released
+type: "Tool"
+permalink: /tools/waster
+date: 2026-02-14
+---
+
+Practical de novo phylogenomics from low-coverage short reads
+
+[README](https://github.com/chaoszhang/ASTER/blob/master/tutorial/waster.md)

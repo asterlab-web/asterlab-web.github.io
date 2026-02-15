@@ -28,3 +28,9 @@ main:
     
   - title: "Join us"
     url: /join-us/
+    
+  - title: "CV"
+    url: /cv/
+    
+  - title: "Guide"
+    url: /markdown/

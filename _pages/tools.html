@@ -1,0 +1,26 @@
+---
+layout: archive
+title: "Tools and Packages"
+permalink: /tools/
+author_profile: true
+---
+
+{% if site.person_category %}
+  {% for category in site.tool_category  %}
+    {% assign title_shown = false %}
+    {% for post in site.tools reversed %}
+      {% if post.category != category[0] %}
+        {% continue %}
+      {% endif %}
+      {% unless title_shown %}
+        <h2>{{ category[1].title }}</h2><hr />
+        {% assign title_shown = true %}
+      {% endunless %}
+      {% include archive-single-talk.html %}
+    {% endfor %}
+  {% endfor %}
+{% else %}
+  {% for post in site.tools reversed %}
+    {% include archive-single-talk.html %}
+  {% endfor %}
+{% endif %}

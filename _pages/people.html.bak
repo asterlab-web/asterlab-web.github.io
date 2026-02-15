@@ -1,21 +1,17 @@
 ---
 layout: archive
-title: "Publications"
-permalink: /publications/
+title: "People"
+permalink: /people/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can find the full list of articles on <a href="{{site.author.googlescholar}}">Google Scholar</a>.</div>
-{% endif %}
-
 {% include base_path %}
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
+
+{% if site.person_category %}
+  {% for category in site.person_category  %}
     {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
+    {% for post in site.people reversed %}
       {% if post.category != category[0] %}
         {% continue %}
       {% endif %}
@@ -27,10 +23,8 @@ author_profile: true
     {% endfor %}
   {% endfor %}
 {% else %}
-  {% for post in site.publications reversed %}
+  {% for post in site.people reversed %}
     {% include archive-single.html %}
   {% endfor %}
 {% endif %}
-
-
 

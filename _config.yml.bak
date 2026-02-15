@@ -315,7 +315,7 @@ defaults:
   # _join-us
   - scope:
       path: ""
-      type: join-us
+      type: teaching
     values:
       layout: single
       author_profile: true

@@ -1,0 +1,17 @@
+---
+layout: archive
+title: "Join us"
+permalink: /join-us/
+author_profile: true
+---
+
+Our lab has two tracks:</br>
+Algorithm track: Software development</br>
+Bioinformatic track: Phylogenetic analysis</br>
+
+
+{% include base_path %}
+
+{% for post in site.join-us %}
+  {% include archive-single.html %}
+{% endfor %}

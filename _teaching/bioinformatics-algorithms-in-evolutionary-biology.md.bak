@@ -1,0 +1,14 @@
+---
+title: "Bioinformatics Algorithms in Evolutionary Biology"
+collection: teaching
+type: "Course"
+date: 2025-03-04
+permalink: /teaching/bioinformatics-algorithms-in-evolutionary-biology
+venue: "Peking University, School of Life Sciences"
+---
+
+Algorithm course for beginners
+
+Course description
+======
+"Bioinformatics Algorithms in Evolutionary Biology" is a university-wide public elective course for both undergraduate and graduate students. Phylogenetics is an interdisciplinary field that integrates biology, mathematics, and computer science. The course aims to inspire students majoring in bioinformatics to develop an interest in algorithm development, while also introducing students from other disciplines with a background in algorithms to the applications of algorithms in biology. Starting from practical research problems in phylogenetics, the course will cultivate students' abilities in algorithm design, implementation, optimization, and application. For students with a solid background in algorithms, the pace of this course may be relatively slow; for those with no prior algorithm experience, the time commitment required for this course may exceed that of major-specific elective courses. Please bring your laptop.
