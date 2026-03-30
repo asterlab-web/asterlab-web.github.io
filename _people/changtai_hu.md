@@ -14,6 +14,7 @@ I am a Ph.D. student at the ASTER Lab. I'm interested in novel algorithms for Ph
 ## Education
 
 | **Ph.D.** | Bioinformatics | Peking University | 2025–now |
+
 | **B.Sc.** | Ecology | Peking University | 2021–2025 |
 
 ## Contact
