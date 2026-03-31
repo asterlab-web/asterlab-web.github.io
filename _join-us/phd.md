@@ -1,6 +1,6 @@
 ---
 title: "Ph.D. Student"
-excerpt: "[Chinese nationals only] Algorithm track &amp; Bioinformatic track"
+excerpt: "Algorithm track &amp; Bioinformatic track [Chinese nationals only due to regulations]"
 collection: join-us
 ---
 
