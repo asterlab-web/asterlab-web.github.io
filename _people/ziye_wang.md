@@ -16,8 +16,8 @@ Previously, he has worked on gene drives with [Prof. Jackson Champer](https://jc
 ## Education
 
 | **Ph.D.** | Computational Biology | University of California, Berkeley | Starting 2026 |
-| **B.Sc.** | Bioinformatics | Peking University | 2021–2026 |
-| **B.Sc.** | Mathematics | Peking University | 2021–2026 |
+| **B.Sc.** | Bioinformatics | Peking University | 2022–2026 |
+| **B.Sc.** | Mathematics | Peking University | 2022–2026 |
 
 ## Contact
 
