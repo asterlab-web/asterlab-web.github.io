@@ -9,7 +9,7 @@ category: phd
 
 ## Biography
 
-I am a Ph.D. student at the ASTER Lab. I'm interested in novel algorithms for Phylogenetics. Now I am working on the problem of WESTER-ID which aims to create a pipeline to identify the species of a sample using low-coverage site-based sequencing data. I'm also interested in the deeplearning-based methods for phylogenetic inference.
+I am a Ph.D. student at the ASTER Lab. I'm interested in novel algorithms for Phylogenetics. Now I am working on the problem of WASTER-ID which aims to create a pipeline to identify the species of a sample using low-coverage site-based sequencing data. I'm also interested in the deeplearning-based methods for phylogenetic inference.
 
 ## Education
 
