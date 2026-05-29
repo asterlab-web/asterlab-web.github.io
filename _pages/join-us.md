@@ -5,6 +5,8 @@ permalink: /join-us/
 author_profile: true
 ---
 
+<img src='/images/members.jpeg' style='height: 400px;'>
+
 Our lab has two tracks:
 - Algorithm track: [Software development](../research/algorithm)
 - Bioinformatic track: [Phylogenetic analysis](../research/bioinformatic)

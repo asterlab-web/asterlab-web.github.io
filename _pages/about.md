@@ -9,6 +9,8 @@ redirect_from:
 
 Here, developers and users are equally appeciated. Together, we can make a difference!
 
+<img src='/images/members.jpeg' style='height: 400px;'>
+
 -----
 
 # NEWS
